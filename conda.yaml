@@ -1,0 +1,38 @@
+name: breezy
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.*
+  - black
+  - flake8
+  - flit
+  - ipython
+  - ipywidgets
+  - isort
+  - jupyterlab
+  - jupyterlab_code_formatter
+  - jupyterlab-spellchecker
+  - mamba
+  - matplotlib
+  - mypy
+  - nbconvert
+  - nbformat
+  - nbqa
+  - numpy
+  - pandas
+  - pandoc
+  - pip
+  - pydantic
+  - pytest
+  - pytest-cov
+  - pytest-sugar
+  - pyjanitor
+  - scipy
+  - seaborn
+  - typer
+  - watermark
+  - pip:
+    - wakepy
+    - papermill
+    # - -e .
