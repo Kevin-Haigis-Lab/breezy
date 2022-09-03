@@ -16,4 +16,4 @@ classifiers = [
 dynamic = ["version", "description"]
 
 [project.urls]
-Home = "https://github.com/jhrcook/breezy"
+Home = "https://github.com/Kevin-Haigis-Lab/breezy.git"
