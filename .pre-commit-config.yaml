@@ -29,7 +29,7 @@ repos:
     rev: "v0.942"
     hooks:
     -   id: mypy
-        additional_dependencies: [numpy, pydantic, types-PyYAML, types-python-dateutil]
+        additional_dependencies: [numpy, pydantic, types-PyYAML, types-python-dateutil, types-requests]
 
 -   repo: https://github.com/PyCQA/flake8
     rev: "4.0.1"
