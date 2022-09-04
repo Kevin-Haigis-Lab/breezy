@@ -57,6 +57,16 @@ class GtexExpressionDataResponse(BaseModel):
         alias_generator = _to_camel
 
 
+def info(s: str) -> None:
+    """Print info."""
+    rprint(f"[grey]{s}[/grey]")
+
+
+def msg(s: str) -> None:
+    """Print a message."""
+    rprint(f"[blue]{s}[/blue]")
+
+
 def _write_cache(res: requests.Response, path: Path) -> None:
     with open(path, "w") as fp:
         json.dump(res.json(), fp)
@@ -93,14 +103,6 @@ def expression_data_to_data_frame(
     expr_df = pd.concat(dfs).reset_index(drop=True)
     info(f"Number of data points: {len(expr_df)}")
     return expr_df
-
-
-def info(s: str) -> None:
-    rprint(f"[grey]{s}[/grey]")
-
-
-def msg(s: str) -> None:
-    rprint(f"[blue]{s}[/blue]")
 
 
 @app.command()
