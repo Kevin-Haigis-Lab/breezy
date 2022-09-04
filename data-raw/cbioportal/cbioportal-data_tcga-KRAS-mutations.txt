@@ -1,0 +1,64 @@
+Cancer Type	Alteration Frequency	Alteration Type	Alteration Count
+Pancreatic Cancer	4.3478260869565215	multiple	8
+Pancreatic Cancer	59.2391304347826	mutated	109
+Colorectal Cancer	0.5050505050505051	multiple	3
+Colorectal Cancer	0.16835016835016833	homdel	1
+Colorectal Cancer	0.5050505050505051	amp	3
+Colorectal Cancer	36.195286195286194	mutated	215
+Seminoma	1.5873015873015872	multiple	1
+Seminoma	6.349206349206349	amp	4
+Seminoma	17.46031746031746	mutated	11
+Endometrial Cancer	0.6825938566552902	multiple	4
+Endometrial Cancer	1.7064846416382253	amp	10
+Endometrial Cancer	17.4061433447099	mutated	102
+Non-Small Cell Lung Cancer	1.7094017094017095	multiple	18
+Non-Small Cell Lung Cancer	2.4691358024691357	amp	26
+Non-Small Cell Lung Cancer	15.004748338081672	mutated	158
+Esophagogastric Cancer	0.482315112540193	multiple	3
+Esophagogastric Cancer	0.1607717041800643	homdel	1
+Esophagogastric Cancer	7.234726688102894	amp	45
+Esophagogastric Cancer	6.270096463022508	mutated	39
+Ovarian Epithelial Tumor	9.246575342465754	amp	54
+Ovarian Epithelial Tumor	0.17123287671232876	structuralVariant	1
+Ovarian Epithelial Tumor	1.0273972602739725	mutated	6
+Non-Seminomatous Germ Cell Tumor	9.30232558139535	amp	8
+Bladder Cancer	0.7299270072992701	multiple	3
+Bladder Cancer	0.24330900243309003	homdel	1
+Bladder Cancer	2.9197080291970803	amp	12
+Bladder Cancer	2.9197080291970803	mutated	12
+Cholangiocarcinoma	5.555555555555555	mutated	2
+Cervical Cancer	0.33670033670033667	multiple	1
+Cervical Cancer	0.33670033670033667	amp	1
+Cervical Cancer	4.713804713804714	mutated	14
+Leukemia	5	mutated	10
+Mature B-Cell Neoplasms	4.166666666666666	mutated	2
+Sarcoma	0.39215686274509803	multiple	1
+Sarcoma	1.1764705882352942	homdel	3
+Sarcoma	1.5686274509803921	amp	4
+Sarcoma	0.39215686274509803	mutated	1
+Melanoma	0.22522522522522523	multiple	1
+Melanoma	0.9009009009009009	amp	4
+Melanoma	2.027027027027027	mutated	9
+Glioma	2.140077821011673	amp	11
+Glioma	0.38910505836575876	mutated	2
+Pleural Mesothelioma	1.1494252873563218	multiple	1
+Pleural Mesothelioma	1.1494252873563218	amp	1
+Hepatobiliary Cancer	0.8064516129032258	amp	3
+Hepatobiliary Cancer	1.3440860215053763	mutated	5
+Breast Cancer	0.18450184501845018	homdel	2
+Breast Cancer	1.3837638376383763	amp	15
+Breast Cancer	0.5535055350553505	mutated	6
+Glioblastoma	0.16891891891891891	multiple	1
+Glioblastoma	1.5202702702702704	amp	9
+Glioblastoma	0.16891891891891891	mutated	1
+Head and Neck Cancer	0.19120458891013384	homdel	1
+Head and Neck Cancer	1.147227533460803	amp	6
+Head and Neck Cancer	0.19120458891013384	mutated	1
+Renal Non-Clear Cell Carcinoma	1.4367816091954022	mutated	5
+Prostate Cancer	0.20242914979757085	homdel	1
+Prostate Cancer	0.6072874493927125	amp	3
+Prostate Cancer	0.4048582995951417	mutated	2
+Adrenocortical Carcinoma	1.098901098901099	amp	1
+Thymic Epithelial Tumor	0.8130081300813009	mutated	1
+Thyroid Cancer	0.8	mutated	4
+Renal Clear Cell Carcinoma	0.3913894324853229	mutated	2
