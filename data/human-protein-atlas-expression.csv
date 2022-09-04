@@ -1,231 +1,231 @@
-,gene,data_type,source,unit,expr
-0,KRAS,Tissue RNA,adipose tissue,nTPM,11.8
-1,KRAS,Tissue RNA,adrenal gland,nTPM,9.1
-2,KRAS,Tissue RNA,amygdala,nTPM,11.0
-3,KRAS,Tissue RNA,appendix,nTPM,16.2
-4,KRAS,Tissue RNA,basal ganglia,nTPM,12.2
-5,KRAS,Tissue RNA,bone marrow,nTPM,27.8
-6,KRAS,Tissue RNA,breast,nTPM,10.0
-7,KRAS,Tissue RNA,cerebellum,nTPM,11.7
-8,KRAS,Tissue RNA,cerebral cortex,nTPM,12.3
-9,KRAS,Tissue RNA,cervix,nTPM,9.5
-10,KRAS,Tissue RNA,choroid plexus,nTPM,4.6
-11,KRAS,Tissue RNA,colon,nTPM,22.0
-12,KRAS,Tissue RNA,duodenum,nTPM,14.0
-13,KRAS,Tissue RNA,endometrium 1,nTPM,11.0
-14,KRAS,Tissue RNA,epididymis,nTPM,6.8
-15,KRAS,Tissue RNA,esophagus,nTPM,19.3
-16,KRAS,Tissue RNA,fallopian tube,nTPM,7.4
-17,KRAS,Tissue RNA,gallbladder,nTPM,13.1
-18,KRAS,Tissue RNA,heart muscle,nTPM,8.6
-19,KRAS,Tissue RNA,hippocampal formation,nTPM,12.5
-20,KRAS,Tissue RNA,hypothalamus,nTPM,12.0
-21,KRAS,Tissue RNA,kidney,nTPM,11.7
-22,KRAS,Tissue RNA,liver,nTPM,15.3
-23,KRAS,Tissue RNA,lung,nTPM,13.2
-24,KRAS,Tissue RNA,lymph node,nTPM,17.9
-25,KRAS,Tissue RNA,medulla oblongata,nTPM,8.5
-26,KRAS,Tissue RNA,midbrain,nTPM,9.7
-27,KRAS,Tissue RNA,ovary,nTPM,8.0
-28,KRAS,Tissue RNA,pancreas,nTPM,12.6
-29,KRAS,Tissue RNA,parathyroid gland,nTPM,11.1
-30,KRAS,Tissue RNA,pituitary gland,nTPM,5.7
-31,KRAS,Tissue RNA,placenta,nTPM,17.0
-32,KRAS,Tissue RNA,pons,nTPM,8.7
-33,KRAS,Tissue RNA,prostate,nTPM,11.8
-34,KRAS,Tissue RNA,rectum,nTPM,23.0
-35,KRAS,Tissue RNA,retina,nTPM,22.7
-36,KRAS,Tissue RNA,salivary gland,nTPM,11.9
-37,KRAS,Tissue RNA,seminal vesicle,nTPM,8.3
-38,KRAS,Tissue RNA,skeletal muscle,nTPM,7.6
-39,KRAS,Tissue RNA,skin 1,nTPM,13.6
-40,KRAS,Tissue RNA,small intestine,nTPM,19.5
-41,KRAS,Tissue RNA,smooth muscle,nTPM,13.6
-42,KRAS,Tissue RNA,spinal cord,nTPM,8.1
-43,KRAS,Tissue RNA,spleen,nTPM,12.0
-44,KRAS,Tissue RNA,stomach 1,nTPM,20.3
-45,KRAS,Tissue RNA,testis,nTPM,8.9
-46,KRAS,Tissue RNA,thalamus,nTPM,12.9
-47,KRAS,Tissue RNA,thymus,nTPM,17.2
-48,KRAS,Tissue RNA,thyroid gland,nTPM,10.8
-49,KRAS,Tissue RNA,tongue,nTPM,10.3
-50,KRAS,Tissue RNA,tonsil,nTPM,17.4
-51,KRAS,Tissue RNA,urinary bladder,nTPM,16.2
-52,KRAS,Tissue RNA,vagina,nTPM,11.4
-53,KRAS,Tissue RNA,white matter,nTPM,8.6
-54,KRAS,Cell RNA,A-431,nTPM,15.9
-55,KRAS,Cell RNA,A549,nTPM,14.3
-56,KRAS,Cell RNA,AF22,nTPM,39.4
-57,KRAS,Cell RNA,AN3-CA,nTPM,20.7
-58,KRAS,Cell RNA,ASC diff,nTPM,14.1
-59,KRAS,Cell RNA,ASC TERT1,nTPM,19.9
-60,KRAS,Cell RNA,BEWO,nTPM,68.9
-61,KRAS,Cell RNA,BJ,nTPM,17.3
-62,KRAS,Cell RNA,BJ hTERT+,nTPM,22.8
-63,KRAS,Cell RNA,BJ hTERT+ SV40 Large T+,nTPM,18.0
-64,KRAS,Cell RNA,BJ hTERT+ SV40 Large T+ RasG12V,nTPM,21.9
-65,KRAS,Cell RNA,CACO-2,nTPM,51.5
-66,KRAS,Cell RNA,CAPAN-2,nTPM,30.7
-67,KRAS,Cell RNA,Daudi,nTPM,38.7
-68,KRAS,Cell RNA,EFO-21,nTPM,10.4
-69,KRAS,Cell RNA,fHDF/TERT166,nTPM,32.0
-70,KRAS,Cell RNA,GAMG,nTPM,23.4
-71,KRAS,Cell RNA,HaCaT,nTPM,18.6
-72,KRAS,Cell RNA,HAP1,nTPM,44.9
-73,KRAS,Cell RNA,HBEC3-KT,nTPM,17.3
-74,KRAS,Cell RNA,HBF TERT88,nTPM,34.3
-75,KRAS,Cell RNA,HDLM-2,nTPM,26.7
-76,KRAS,Cell RNA,HEK 293,nTPM,15.0
-77,KRAS,Cell RNA,HEL,nTPM,37.6
-78,KRAS,Cell RNA,HeLa,nTPM,17.6
-79,KRAS,Cell RNA,Hep G2,nTPM,15.6
-80,KRAS,Cell RNA,HHSteC,nTPM,15.8
-81,KRAS,Cell RNA,HL-60,nTPM,32.8
-82,KRAS,Cell RNA,HMC-1,nTPM,25.6
-83,KRAS,Cell RNA,HSkMC,nTPM,18.1
-84,KRAS,Cell RNA,hTCEpi,nTPM,25.5
-85,KRAS,Cell RNA,hTEC/SVTERT24-B,nTPM,21.9
-86,KRAS,Cell RNA,hTERT-HME1,nTPM,20.2
-87,KRAS,Cell RNA,hTERT-RPE1,nTPM,33.6
-88,KRAS,Cell RNA,HUVEC TERT2,nTPM,27.1
-89,KRAS,Cell RNA,JURKAT,nTPM,28.7
-90,KRAS,Cell RNA,K-562,nTPM,28.0
-91,KRAS,Cell RNA,Karpas-707,nTPM,17.3
-92,KRAS,Cell RNA,LHCN-M2,nTPM,27.6
-93,KRAS,Cell RNA,MCF7,nTPM,14.1
-94,KRAS,Cell RNA,MOLT-4,nTPM,46.8
-95,KRAS,Cell RNA,NB-4,nTPM,56.6
-96,KRAS,Cell RNA,NTERA-2,nTPM,87.6
-97,KRAS,Cell RNA,OE19,nTPM,25.3
-98,KRAS,Cell RNA,PC-3,nTPM,7.4
-99,KRAS,Cell RNA,REH,nTPM,43.4
-100,KRAS,Cell RNA,RH-30,nTPM,39.9
-101,KRAS,Cell RNA,RPMI-8226,nTPM,59.9
-102,KRAS,Cell RNA,RPTEC TERT1,nTPM,27.2
-103,KRAS,Cell RNA,RT4,nTPM,22.4
-104,KRAS,Cell RNA,SCLC-21H,nTPM,11.2
-105,KRAS,Cell RNA,SH-SY5Y,nTPM,32.4
-106,KRAS,Cell RNA,SiHa,nTPM,20.5
-107,KRAS,Cell RNA,SK-BR-3,nTPM,24.9
-108,KRAS,Cell RNA,SK-MEL-30,nTPM,21.8
-109,KRAS,Cell RNA,SuSa,nTPM,97.4
-110,KRAS,Cell RNA,T-47d,nTPM,28.9
-111,KRAS,Cell RNA,THP-1,nTPM,26.9
-112,KRAS,Cell RNA,TIME,nTPM,28.1
-113,KRAS,Cell RNA,U-138 MG,nTPM,18.7
-114,KRAS,Cell RNA,U-2 OS,nTPM,24.8
-115,KRAS,Cell RNA,U-2197,nTPM,38.2
-116,KRAS,Cell RNA,U-251 MG,nTPM,22.0
-117,KRAS,Cell RNA,U-266/70,nTPM,16.4
-118,KRAS,Cell RNA,U-266/84,nTPM,28.5
-119,KRAS,Cell RNA,U-698,nTPM,41.9
-120,KRAS,Cell RNA,U-87 MG,nTPM,15.4
-121,KRAS,Cell RNA,U-937,nTPM,20.0
-122,KRAS,Cell RNA,WM-115,nTPM,15.0
-123,KRAS,Blood RNA,basophil,nTPM,31.2
-124,KRAS,Blood RNA,classical monocyte,nTPM,8.1
-125,KRAS,Blood RNA,eosinophil,nTPM,13.7
-126,KRAS,Blood RNA,gdT-cell,nTPM,11.6
-127,KRAS,Blood RNA,intermediate monocyte,nTPM,16.4
-128,KRAS,Blood RNA,MAIT T-cell,nTPM,7.9
-129,KRAS,Blood RNA,memory B-cell,nTPM,10.7
-130,KRAS,Blood RNA,memory CD4 T-cell,nTPM,10.1
-131,KRAS,Blood RNA,memory CD8 T-cell,nTPM,13.1
-132,KRAS,Blood RNA,myeloid DC,nTPM,7.9
-133,KRAS,Blood RNA,naive B-cell,nTPM,10.5
-134,KRAS,Blood RNA,naive CD4 T-cell,nTPM,13.8
-135,KRAS,Blood RNA,naive CD8 T-cell,nTPM,12.4
-136,KRAS,Blood RNA,neutrophil,nTPM,19.2
-137,KRAS,Blood RNA,NK-cell,nTPM,11.2
-138,KRAS,Blood RNA,non-classical monocyte,nTPM,22.4
-139,KRAS,Blood RNA,plasmacytoid DC,nTPM,7.8
-140,KRAS,Blood RNA,T-reg,nTPM,7.6
-141,KRAS,Blood RNA,total PBMC,nTPM,5.8
-142,KRAS,Brain RNA,amygdala,nTPM,11.0
-143,KRAS,Brain RNA,basal ganglia,nTPM,12.2
-144,KRAS,Brain RNA,cerebellum,nTPM,11.7
-145,KRAS,Brain RNA,cerebral cortex,nTPM,12.3
-146,KRAS,Brain RNA,hippocampal formation,nTPM,12.5
-147,KRAS,Brain RNA,hypothalamus,nTPM,12.0
-148,KRAS,Brain RNA,medulla oblongata,nTPM,8.5
-149,KRAS,Brain RNA,midbrain,nTPM,9.7
-150,KRAS,Brain RNA,pons,nTPM,8.7
-151,KRAS,Brain RNA,spinal cord,nTPM,8.1
-152,KRAS,Brain RNA,thalamus,nTPM,12.9
-153,KRAS,Brain RNA,white matter,nTPM,8.6
-154,KRAS,Single Cell Type RNA,Adipocytes,nTPM,73.7
-155,KRAS,Single Cell Type RNA,Alveolar cells type 1,nTPM,48.1
-156,KRAS,Single Cell Type RNA,Alveolar cells type 2,nTPM,32.1
-157,KRAS,Single Cell Type RNA,Astrocytes,nTPM,16.6
-158,KRAS,Single Cell Type RNA,B-cells,nTPM,90.8
-159,KRAS,Single Cell Type RNA,Basal keratinocytes,nTPM,100.9
-160,KRAS,Single Cell Type RNA,Basal prostatic cells,nTPM,96.4
-161,KRAS,Single Cell Type RNA,Basal respiratory cells,nTPM,57.2
-162,KRAS,Single Cell Type RNA,Basal squamous epithelial cells,nTPM,72.3
-163,KRAS,Single Cell Type RNA,Bipolar cells,nTPM,63.4
-164,KRAS,Single Cell Type RNA,Breast glandular cells,nTPM,59.9
-165,KRAS,Single Cell Type RNA,Breast myoepithelial cells,nTPM,38.0
-166,KRAS,Single Cell Type RNA,Cardiomyocytes,nTPM,16.3
-167,KRAS,Single Cell Type RNA,Cholangiocytes,nTPM,64.3
-168,KRAS,Single Cell Type RNA,Club cells,nTPM,53.6
-169,KRAS,Single Cell Type RNA,Collecting duct cells,nTPM,38.6
-170,KRAS,Single Cell Type RNA,Cone photoreceptor cells,nTPM,73.0
-171,KRAS,Single Cell Type RNA,Cytotrophoblasts,nTPM,94.2
-172,KRAS,Single Cell Type RNA,dendritic cells,nTPM,66.0
-173,KRAS,Single Cell Type RNA,Distal enterocytes,nTPM,161.9
-174,KRAS,Single Cell Type RNA,Distal tubular cells,nTPM,58.7
-175,KRAS,Single Cell Type RNA,Ductal cells,nTPM,77.5
-176,KRAS,Single Cell Type RNA,Early spermatids,nTPM,3.9
-177,KRAS,Single Cell Type RNA,Endometrial ciliated cells,nTPM,45.4
-178,KRAS,Single Cell Type RNA,Endometrial stromal cells,nTPM,40.8
-179,KRAS,Single Cell Type RNA,Endothelial cells,nTPM,77.3
-180,KRAS,Single Cell Type RNA,Enteroendocrine cells,nTPM,78.8
-181,KRAS,Single Cell Type RNA,Erythroid cells,nTPM,60.2
-182,KRAS,Single Cell Type RNA,Excitatory neurons,nTPM,42.0
-183,KRAS,Single Cell Type RNA,Exocrine glandular cells,nTPM,91.8
-184,KRAS,Single Cell Type RNA,Extravillous trophoblasts,nTPM,21.4
-185,KRAS,Single Cell Type RNA,Fibroblasts,nTPM,50.1
-186,KRAS,Single Cell Type RNA,Gastric mucus-secreting cells,nTPM,98.4
-187,KRAS,Single Cell Type RNA,Glandular and luminal cells,nTPM,53.4
-188,KRAS,Single Cell Type RNA,granulocytes,nTPM,24.1
-189,KRAS,Single Cell Type RNA,Granulosa cells,nTPM,26.6
-190,KRAS,Single Cell Type RNA,Hepatic stellate cells,nTPM,77.8
-191,KRAS,Single Cell Type RNA,Hepatocytes,nTPM,56.9
-192,KRAS,Single Cell Type RNA,Hofbauer cells,nTPM,51.5
-193,KRAS,Single Cell Type RNA,Horizontal cells,nTPM,92.5
-194,KRAS,Single Cell Type RNA,Inhibitory neurons,nTPM,45.3
-195,KRAS,Single Cell Type RNA,Intestinal goblet cells,nTPM,92.9
-196,KRAS,Single Cell Type RNA,Ionocytes,nTPM,36.7
-197,KRAS,Single Cell Type RNA,Kupffer cells,nTPM,53.9
-198,KRAS,Single Cell Type RNA,Langerhans cells,nTPM,83.7
-199,KRAS,Single Cell Type RNA,Late spermatids,nTPM,5.9
-200,KRAS,Single Cell Type RNA,Leydig cells,nTPM,40.7
-201,KRAS,Single Cell Type RNA,Macrophages,nTPM,75.3
-202,KRAS,Single Cell Type RNA,Melanocytes,nTPM,62.2
-203,KRAS,Single Cell Type RNA,Microglial cells,nTPM,28.1
-204,KRAS,Single Cell Type RNA,monocytes,nTPM,82.9
-205,KRAS,Single Cell Type RNA,Muller glia cells,nTPM,41.7
-206,KRAS,Single Cell Type RNA,NK-cells,nTPM,49.4
-207,KRAS,Single Cell Type RNA,Oligodendrocyte precursor cells,nTPM,19.6
-208,KRAS,Single Cell Type RNA,Oligodendrocytes,nTPM,16.6
-209,KRAS,Single Cell Type RNA,Pancreatic endocrine cells,nTPM,114.2
-210,KRAS,Single Cell Type RNA,Paneth cells,nTPM,104.7
-211,KRAS,Single Cell Type RNA,Peritubular cells,nTPM,51.6
-212,KRAS,Single Cell Type RNA,Plasma cells,nTPM,85.0
-213,KRAS,Single Cell Type RNA,Prostatic glandular cells,nTPM,130.1
-214,KRAS,Single Cell Type RNA,Proximal enterocytes,nTPM,63.0
-215,KRAS,Single Cell Type RNA,Proximal tubular cells,nTPM,52.3
-216,KRAS,Single Cell Type RNA,Respiratory ciliated cells,nTPM,42.5
-217,KRAS,Single Cell Type RNA,Rod photoreceptor cells,nTPM,65.8
-218,KRAS,Single Cell Type RNA,Sertoli cells,nTPM,26.3
-219,KRAS,Single Cell Type RNA,Skeletal myocytes,nTPM,53.7
-220,KRAS,Single Cell Type RNA,Smooth muscle cells,nTPM,52.2
-221,KRAS,Single Cell Type RNA,Spermatocytes,nTPM,53.0
-222,KRAS,Single Cell Type RNA,Spermatogonia,nTPM,40.3
-223,KRAS,Single Cell Type RNA,Squamous epithelial cells,nTPM,93.0
-224,KRAS,Single Cell Type RNA,Suprabasal keratinocytes,nTPM,155.7
-225,KRAS,Single Cell Type RNA,Syncytiotrophoblasts,nTPM,139.1
-226,KRAS,Single Cell Type RNA,T-cells,nTPM,83.0
-227,KRAS,Single Cell Type RNA,Theca cells,nTPM,36.5
-228,KRAS,Single Cell Type RNA,Undifferentiated cells,nTPM,96.7
-229,KRAS,Single Cell Type RNA,Urothelial cells,nTPM,176.9
+gene,data_type,source,unit,expr
+KRAS,Tissue RNA,adipose tissue,nTPM,11.8
+KRAS,Tissue RNA,adrenal gland,nTPM,9.1
+KRAS,Tissue RNA,amygdala,nTPM,11.0
+KRAS,Tissue RNA,appendix,nTPM,16.2
+KRAS,Tissue RNA,basal ganglia,nTPM,12.2
+KRAS,Tissue RNA,bone marrow,nTPM,27.8
+KRAS,Tissue RNA,breast,nTPM,10.0
+KRAS,Tissue RNA,cerebellum,nTPM,11.7
+KRAS,Tissue RNA,cerebral cortex,nTPM,12.3
+KRAS,Tissue RNA,cervix,nTPM,9.5
+KRAS,Tissue RNA,choroid plexus,nTPM,4.6
+KRAS,Tissue RNA,colon,nTPM,22.0
+KRAS,Tissue RNA,duodenum,nTPM,14.0
+KRAS,Tissue RNA,endometrium 1,nTPM,11.0
+KRAS,Tissue RNA,epididymis,nTPM,6.8
+KRAS,Tissue RNA,esophagus,nTPM,19.3
+KRAS,Tissue RNA,fallopian tube,nTPM,7.4
+KRAS,Tissue RNA,gallbladder,nTPM,13.1
+KRAS,Tissue RNA,heart muscle,nTPM,8.6
+KRAS,Tissue RNA,hippocampal formation,nTPM,12.5
+KRAS,Tissue RNA,hypothalamus,nTPM,12.0
+KRAS,Tissue RNA,kidney,nTPM,11.7
+KRAS,Tissue RNA,liver,nTPM,15.3
+KRAS,Tissue RNA,lung,nTPM,13.2
+KRAS,Tissue RNA,lymph node,nTPM,17.9
+KRAS,Tissue RNA,medulla oblongata,nTPM,8.5
+KRAS,Tissue RNA,midbrain,nTPM,9.7
+KRAS,Tissue RNA,ovary,nTPM,8.0
+KRAS,Tissue RNA,pancreas,nTPM,12.6
+KRAS,Tissue RNA,parathyroid gland,nTPM,11.1
+KRAS,Tissue RNA,pituitary gland,nTPM,5.7
+KRAS,Tissue RNA,placenta,nTPM,17.0
+KRAS,Tissue RNA,pons,nTPM,8.7
+KRAS,Tissue RNA,prostate,nTPM,11.8
+KRAS,Tissue RNA,rectum,nTPM,23.0
+KRAS,Tissue RNA,retina,nTPM,22.7
+KRAS,Tissue RNA,salivary gland,nTPM,11.9
+KRAS,Tissue RNA,seminal vesicle,nTPM,8.3
+KRAS,Tissue RNA,skeletal muscle,nTPM,7.6
+KRAS,Tissue RNA,skin 1,nTPM,13.6
+KRAS,Tissue RNA,small intestine,nTPM,19.5
+KRAS,Tissue RNA,smooth muscle,nTPM,13.6
+KRAS,Tissue RNA,spinal cord,nTPM,8.1
+KRAS,Tissue RNA,spleen,nTPM,12.0
+KRAS,Tissue RNA,stomach 1,nTPM,20.3
+KRAS,Tissue RNA,testis,nTPM,8.9
+KRAS,Tissue RNA,thalamus,nTPM,12.9
+KRAS,Tissue RNA,thymus,nTPM,17.2
+KRAS,Tissue RNA,thyroid gland,nTPM,10.8
+KRAS,Tissue RNA,tongue,nTPM,10.3
+KRAS,Tissue RNA,tonsil,nTPM,17.4
+KRAS,Tissue RNA,urinary bladder,nTPM,16.2
+KRAS,Tissue RNA,vagina,nTPM,11.4
+KRAS,Tissue RNA,white matter,nTPM,8.6
+KRAS,Cell RNA,A-431,nTPM,15.9
+KRAS,Cell RNA,A549,nTPM,14.3
+KRAS,Cell RNA,AF22,nTPM,39.4
+KRAS,Cell RNA,AN3-CA,nTPM,20.7
+KRAS,Cell RNA,ASC diff,nTPM,14.1
+KRAS,Cell RNA,ASC TERT1,nTPM,19.9
+KRAS,Cell RNA,BEWO,nTPM,68.9
+KRAS,Cell RNA,BJ,nTPM,17.3
+KRAS,Cell RNA,BJ hTERT+,nTPM,22.8
+KRAS,Cell RNA,BJ hTERT+ SV40 Large T+,nTPM,18.0
+KRAS,Cell RNA,BJ hTERT+ SV40 Large T+ RasG12V,nTPM,21.9
+KRAS,Cell RNA,CACO-2,nTPM,51.5
+KRAS,Cell RNA,CAPAN-2,nTPM,30.7
+KRAS,Cell RNA,Daudi,nTPM,38.7
+KRAS,Cell RNA,EFO-21,nTPM,10.4
+KRAS,Cell RNA,fHDF/TERT166,nTPM,32.0
+KRAS,Cell RNA,GAMG,nTPM,23.4
+KRAS,Cell RNA,HaCaT,nTPM,18.6
+KRAS,Cell RNA,HAP1,nTPM,44.9
+KRAS,Cell RNA,HBEC3-KT,nTPM,17.3
+KRAS,Cell RNA,HBF TERT88,nTPM,34.3
+KRAS,Cell RNA,HDLM-2,nTPM,26.7
+KRAS,Cell RNA,HEK 293,nTPM,15.0
+KRAS,Cell RNA,HEL,nTPM,37.6
+KRAS,Cell RNA,HeLa,nTPM,17.6
+KRAS,Cell RNA,Hep G2,nTPM,15.6
+KRAS,Cell RNA,HHSteC,nTPM,15.8
+KRAS,Cell RNA,HL-60,nTPM,32.8
+KRAS,Cell RNA,HMC-1,nTPM,25.6
+KRAS,Cell RNA,HSkMC,nTPM,18.1
+KRAS,Cell RNA,hTCEpi,nTPM,25.5
+KRAS,Cell RNA,hTEC/SVTERT24-B,nTPM,21.9
+KRAS,Cell RNA,hTERT-HME1,nTPM,20.2
+KRAS,Cell RNA,hTERT-RPE1,nTPM,33.6
+KRAS,Cell RNA,HUVEC TERT2,nTPM,27.1
+KRAS,Cell RNA,JURKAT,nTPM,28.7
+KRAS,Cell RNA,K-562,nTPM,28.0
+KRAS,Cell RNA,Karpas-707,nTPM,17.3
+KRAS,Cell RNA,LHCN-M2,nTPM,27.6
+KRAS,Cell RNA,MCF7,nTPM,14.1
+KRAS,Cell RNA,MOLT-4,nTPM,46.8
+KRAS,Cell RNA,NB-4,nTPM,56.6
+KRAS,Cell RNA,NTERA-2,nTPM,87.6
+KRAS,Cell RNA,OE19,nTPM,25.3
+KRAS,Cell RNA,PC-3,nTPM,7.4
+KRAS,Cell RNA,REH,nTPM,43.4
+KRAS,Cell RNA,RH-30,nTPM,39.9
+KRAS,Cell RNA,RPMI-8226,nTPM,59.9
+KRAS,Cell RNA,RPTEC TERT1,nTPM,27.2
+KRAS,Cell RNA,RT4,nTPM,22.4
+KRAS,Cell RNA,SCLC-21H,nTPM,11.2
+KRAS,Cell RNA,SH-SY5Y,nTPM,32.4
+KRAS,Cell RNA,SiHa,nTPM,20.5
+KRAS,Cell RNA,SK-BR-3,nTPM,24.9
+KRAS,Cell RNA,SK-MEL-30,nTPM,21.8
+KRAS,Cell RNA,SuSa,nTPM,97.4
+KRAS,Cell RNA,T-47d,nTPM,28.9
+KRAS,Cell RNA,THP-1,nTPM,26.9
+KRAS,Cell RNA,TIME,nTPM,28.1
+KRAS,Cell RNA,U-138 MG,nTPM,18.7
+KRAS,Cell RNA,U-2 OS,nTPM,24.8
+KRAS,Cell RNA,U-2197,nTPM,38.2
+KRAS,Cell RNA,U-251 MG,nTPM,22.0
+KRAS,Cell RNA,U-266/70,nTPM,16.4
+KRAS,Cell RNA,U-266/84,nTPM,28.5
+KRAS,Cell RNA,U-698,nTPM,41.9
+KRAS,Cell RNA,U-87 MG,nTPM,15.4
+KRAS,Cell RNA,U-937,nTPM,20.0
+KRAS,Cell RNA,WM-115,nTPM,15.0
+KRAS,Blood RNA,basophil,nTPM,31.2
+KRAS,Blood RNA,classical monocyte,nTPM,8.1
+KRAS,Blood RNA,eosinophil,nTPM,13.7
+KRAS,Blood RNA,gdT-cell,nTPM,11.6
+KRAS,Blood RNA,intermediate monocyte,nTPM,16.4
+KRAS,Blood RNA,MAIT T-cell,nTPM,7.9
+KRAS,Blood RNA,memory B-cell,nTPM,10.7
+KRAS,Blood RNA,memory CD4 T-cell,nTPM,10.1
+KRAS,Blood RNA,memory CD8 T-cell,nTPM,13.1
+KRAS,Blood RNA,myeloid DC,nTPM,7.9
+KRAS,Blood RNA,naive B-cell,nTPM,10.5
+KRAS,Blood RNA,naive CD4 T-cell,nTPM,13.8
+KRAS,Blood RNA,naive CD8 T-cell,nTPM,12.4
+KRAS,Blood RNA,neutrophil,nTPM,19.2
+KRAS,Blood RNA,NK-cell,nTPM,11.2
+KRAS,Blood RNA,non-classical monocyte,nTPM,22.4
+KRAS,Blood RNA,plasmacytoid DC,nTPM,7.8
+KRAS,Blood RNA,T-reg,nTPM,7.6
+KRAS,Blood RNA,total PBMC,nTPM,5.8
+KRAS,Brain RNA,amygdala,nTPM,11.0
+KRAS,Brain RNA,basal ganglia,nTPM,12.2
+KRAS,Brain RNA,cerebellum,nTPM,11.7
+KRAS,Brain RNA,cerebral cortex,nTPM,12.3
+KRAS,Brain RNA,hippocampal formation,nTPM,12.5
+KRAS,Brain RNA,hypothalamus,nTPM,12.0
+KRAS,Brain RNA,medulla oblongata,nTPM,8.5
+KRAS,Brain RNA,midbrain,nTPM,9.7
+KRAS,Brain RNA,pons,nTPM,8.7
+KRAS,Brain RNA,spinal cord,nTPM,8.1
+KRAS,Brain RNA,thalamus,nTPM,12.9
+KRAS,Brain RNA,white matter,nTPM,8.6
+KRAS,Single Cell Type RNA,Adipocytes,nTPM,73.7
+KRAS,Single Cell Type RNA,Alveolar cells type 1,nTPM,48.1
+KRAS,Single Cell Type RNA,Alveolar cells type 2,nTPM,32.1
+KRAS,Single Cell Type RNA,Astrocytes,nTPM,16.6
+KRAS,Single Cell Type RNA,B-cells,nTPM,90.8
+KRAS,Single Cell Type RNA,Basal keratinocytes,nTPM,100.9
+KRAS,Single Cell Type RNA,Basal prostatic cells,nTPM,96.4
+KRAS,Single Cell Type RNA,Basal respiratory cells,nTPM,57.2
+KRAS,Single Cell Type RNA,Basal squamous epithelial cells,nTPM,72.3
+KRAS,Single Cell Type RNA,Bipolar cells,nTPM,63.4
+KRAS,Single Cell Type RNA,Breast glandular cells,nTPM,59.9
+KRAS,Single Cell Type RNA,Breast myoepithelial cells,nTPM,38.0
+KRAS,Single Cell Type RNA,Cardiomyocytes,nTPM,16.3
+KRAS,Single Cell Type RNA,Cholangiocytes,nTPM,64.3
+KRAS,Single Cell Type RNA,Club cells,nTPM,53.6
+KRAS,Single Cell Type RNA,Collecting duct cells,nTPM,38.6
+KRAS,Single Cell Type RNA,Cone photoreceptor cells,nTPM,73.0
+KRAS,Single Cell Type RNA,Cytotrophoblasts,nTPM,94.2
+KRAS,Single Cell Type RNA,dendritic cells,nTPM,66.0
+KRAS,Single Cell Type RNA,Distal enterocytes,nTPM,161.9
+KRAS,Single Cell Type RNA,Distal tubular cells,nTPM,58.7
+KRAS,Single Cell Type RNA,Ductal cells,nTPM,77.5
+KRAS,Single Cell Type RNA,Early spermatids,nTPM,3.9
+KRAS,Single Cell Type RNA,Endometrial ciliated cells,nTPM,45.4
+KRAS,Single Cell Type RNA,Endometrial stromal cells,nTPM,40.8
+KRAS,Single Cell Type RNA,Endothelial cells,nTPM,77.3
+KRAS,Single Cell Type RNA,Enteroendocrine cells,nTPM,78.8
+KRAS,Single Cell Type RNA,Erythroid cells,nTPM,60.2
+KRAS,Single Cell Type RNA,Excitatory neurons,nTPM,42.0
+KRAS,Single Cell Type RNA,Exocrine glandular cells,nTPM,91.8
+KRAS,Single Cell Type RNA,Extravillous trophoblasts,nTPM,21.4
+KRAS,Single Cell Type RNA,Fibroblasts,nTPM,50.1
+KRAS,Single Cell Type RNA,Gastric mucus-secreting cells,nTPM,98.4
+KRAS,Single Cell Type RNA,Glandular and luminal cells,nTPM,53.4
+KRAS,Single Cell Type RNA,granulocytes,nTPM,24.1
+KRAS,Single Cell Type RNA,Granulosa cells,nTPM,26.6
+KRAS,Single Cell Type RNA,Hepatic stellate cells,nTPM,77.8
+KRAS,Single Cell Type RNA,Hepatocytes,nTPM,56.9
+KRAS,Single Cell Type RNA,Hofbauer cells,nTPM,51.5
+KRAS,Single Cell Type RNA,Horizontal cells,nTPM,92.5
+KRAS,Single Cell Type RNA,Inhibitory neurons,nTPM,45.3
+KRAS,Single Cell Type RNA,Intestinal goblet cells,nTPM,92.9
+KRAS,Single Cell Type RNA,Ionocytes,nTPM,36.7
+KRAS,Single Cell Type RNA,Kupffer cells,nTPM,53.9
+KRAS,Single Cell Type RNA,Langerhans cells,nTPM,83.7
+KRAS,Single Cell Type RNA,Late spermatids,nTPM,5.9
+KRAS,Single Cell Type RNA,Leydig cells,nTPM,40.7
+KRAS,Single Cell Type RNA,Macrophages,nTPM,75.3
+KRAS,Single Cell Type RNA,Melanocytes,nTPM,62.2
+KRAS,Single Cell Type RNA,Microglial cells,nTPM,28.1
+KRAS,Single Cell Type RNA,monocytes,nTPM,82.9
+KRAS,Single Cell Type RNA,Muller glia cells,nTPM,41.7
+KRAS,Single Cell Type RNA,NK-cells,nTPM,49.4
+KRAS,Single Cell Type RNA,Oligodendrocyte precursor cells,nTPM,19.6
+KRAS,Single Cell Type RNA,Oligodendrocytes,nTPM,16.6
+KRAS,Single Cell Type RNA,Pancreatic endocrine cells,nTPM,114.2
+KRAS,Single Cell Type RNA,Paneth cells,nTPM,104.7
+KRAS,Single Cell Type RNA,Peritubular cells,nTPM,51.6
+KRAS,Single Cell Type RNA,Plasma cells,nTPM,85.0
+KRAS,Single Cell Type RNA,Prostatic glandular cells,nTPM,130.1
+KRAS,Single Cell Type RNA,Proximal enterocytes,nTPM,63.0
+KRAS,Single Cell Type RNA,Proximal tubular cells,nTPM,52.3
+KRAS,Single Cell Type RNA,Respiratory ciliated cells,nTPM,42.5
+KRAS,Single Cell Type RNA,Rod photoreceptor cells,nTPM,65.8
+KRAS,Single Cell Type RNA,Sertoli cells,nTPM,26.3
+KRAS,Single Cell Type RNA,Skeletal myocytes,nTPM,53.7
+KRAS,Single Cell Type RNA,Smooth muscle cells,nTPM,52.2
+KRAS,Single Cell Type RNA,Spermatocytes,nTPM,53.0
+KRAS,Single Cell Type RNA,Spermatogonia,nTPM,40.3
+KRAS,Single Cell Type RNA,Squamous epithelial cells,nTPM,93.0
+KRAS,Single Cell Type RNA,Suprabasal keratinocytes,nTPM,155.7
+KRAS,Single Cell Type RNA,Syncytiotrophoblasts,nTPM,139.1
+KRAS,Single Cell Type RNA,T-cells,nTPM,83.0
+KRAS,Single Cell Type RNA,Theca cells,nTPM,36.5
+KRAS,Single Cell Type RNA,Undifferentiated cells,nTPM,96.7
+KRAS,Single Cell Type RNA,Urothelial cells,nTPM,176.9
