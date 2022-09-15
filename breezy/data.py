@@ -75,6 +75,9 @@ def tabula_muris_data() -> pd.DataFrame:
     df = (
         pd.read_csv(data_dir() / "tabula-muris.csv")
         .rename(columns={"kras_expression": "kras_expr"})
-        .assign(kras_log_expr=lambda d: np.log10(d["kras_expr"] + 1.0))
+        .assign(
+            kras_log_expr=lambda d: np.log10(d["kras_expr"] + 1.0),
+            tissue=lambda d: _clean_source_names(d["tissue"]),
+        )
     )
     return df
