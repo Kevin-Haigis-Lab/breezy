@@ -68,3 +68,13 @@ def hpa_expression_data() -> pd.DataFrame:
     """Read in Human Protein Atlas expression data."""
     df = pd.read_csv(data_dir() / "human-protein-atlas-expression.csv")
     return df
+
+
+def tabula_muris_data() -> pd.DataFrame:
+    """Read Tabula Muris expression data."""
+    df = (
+        pd.read_csv(data_dir() / "tabula-muris.csv")
+        .rename(columns={"kras_expression": "kras_expr"})
+        .assign(kras_log_expr=lambda d: np.log10(d["kras_expr"] + 1.0))
+    )
+    return df
