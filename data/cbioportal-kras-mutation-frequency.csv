@@ -1,64 +1,64 @@
-,cancer_type,alteration_frequency,alteration_type,alteration_count
-0,Pancreatic Cancer,4.3478260869565215,multiple,8
-1,Pancreatic Cancer,59.2391304347826,mutated,109
-2,Colorectal Cancer,0.5050505050505051,multiple,3
-3,Colorectal Cancer,0.1683501683501683,homdel,1
-4,Colorectal Cancer,0.5050505050505051,amp,3
-5,Colorectal Cancer,36.195286195286194,mutated,215
-6,Seminoma,1.5873015873015872,multiple,1
-7,Seminoma,6.349206349206349,amp,4
-8,Seminoma,17.46031746031746,mutated,11
-9,Endometrial Cancer,0.6825938566552902,multiple,4
-10,Endometrial Cancer,1.706484641638225,amp,10
-11,Endometrial Cancer,17.4061433447099,mutated,102
-12,Non-Small Cell Lung Cancer,1.7094017094017095,multiple,18
-13,Non-Small Cell Lung Cancer,2.469135802469136,amp,26
-14,Non-Small Cell Lung Cancer,15.004748338081672,mutated,158
-15,Esophagogastric Cancer,0.482315112540193,multiple,3
-16,Esophagogastric Cancer,0.1607717041800643,homdel,1
-17,Esophagogastric Cancer,7.234726688102894,amp,45
-18,Esophagogastric Cancer,6.270096463022508,mutated,39
-19,Ovarian Epithelial Tumor,9.246575342465754,amp,54
-20,Ovarian Epithelial Tumor,0.1712328767123287,structuralVariant,1
-21,Ovarian Epithelial Tumor,1.0273972602739725,mutated,6
-22,Non-Seminomatous Germ Cell Tumor,9.30232558139535,amp,8
-23,Bladder Cancer,0.7299270072992701,multiple,3
-24,Bladder Cancer,0.24330900243309,homdel,1
-25,Bladder Cancer,2.9197080291970803,amp,12
-26,Bladder Cancer,2.9197080291970803,mutated,12
-27,Cholangiocarcinoma,5.555555555555555,mutated,2
-28,Cervical Cancer,0.3367003367003366,multiple,1
-29,Cervical Cancer,0.3367003367003366,amp,1
-30,Cervical Cancer,4.713804713804714,mutated,14
-31,Leukemia,5.0,mutated,10
-32,Mature B-Cell Neoplasms,4.166666666666666,mutated,2
-33,Sarcoma,0.392156862745098,multiple,1
-34,Sarcoma,1.1764705882352942,homdel,3
-35,Sarcoma,1.568627450980392,amp,4
-36,Sarcoma,0.392156862745098,mutated,1
-37,Melanoma,0.2252252252252252,multiple,1
-38,Melanoma,0.9009009009009008,amp,4
-39,Melanoma,2.027027027027027,mutated,9
-40,Glioma,2.140077821011673,amp,11
-41,Glioma,0.3891050583657587,mutated,2
-42,Pleural Mesothelioma,1.1494252873563218,multiple,1
-43,Pleural Mesothelioma,1.1494252873563218,amp,1
-44,Hepatobiliary Cancer,0.8064516129032258,amp,3
-45,Hepatobiliary Cancer,1.3440860215053765,mutated,5
-46,Breast Cancer,0.1845018450184501,homdel,2
-47,Breast Cancer,1.3837638376383763,amp,15
-48,Breast Cancer,0.5535055350553505,mutated,6
-49,Glioblastoma,0.1689189189189189,multiple,1
-50,Glioblastoma,1.5202702702702704,amp,9
-51,Glioblastoma,0.1689189189189189,mutated,1
-52,Head and Neck Cancer,0.1912045889101338,homdel,1
-53,Head and Neck Cancer,1.147227533460803,amp,6
-54,Head and Neck Cancer,0.1912045889101338,mutated,1
-55,Renal Non-Clear Cell Carcinoma,1.4367816091954022,mutated,5
-56,Prostate Cancer,0.2024291497975708,homdel,1
-57,Prostate Cancer,0.6072874493927125,amp,3
-58,Prostate Cancer,0.4048582995951417,mutated,2
-59,Adrenocortical Carcinoma,1.098901098901099,amp,1
-60,Thymic Epithelial Tumor,0.8130081300813009,mutated,1
-61,Thyroid Cancer,0.8,mutated,4
-62,Renal Clear Cell Carcinoma,0.3913894324853229,mutated,2
+cancer_type,alteration_frequency,alteration_type,alteration_count
+Pancreatic Cancer,4.3478260869565215,multiple,8
+Pancreatic Cancer,59.2391304347826,mutated,109
+Colorectal Cancer,0.5050505050505051,multiple,3
+Colorectal Cancer,0.1683501683501683,homdel,1
+Colorectal Cancer,0.5050505050505051,amp,3
+Colorectal Cancer,36.195286195286194,mutated,215
+Seminoma,1.5873015873015872,multiple,1
+Seminoma,6.349206349206349,amp,4
+Seminoma,17.46031746031746,mutated,11
+Endometrial Cancer,0.6825938566552902,multiple,4
+Endometrial Cancer,1.706484641638225,amp,10
+Endometrial Cancer,17.4061433447099,mutated,102
+Non-Small Cell Lung Cancer,1.7094017094017095,multiple,18
+Non-Small Cell Lung Cancer,2.469135802469136,amp,26
+Non-Small Cell Lung Cancer,15.004748338081672,mutated,158
+Esophagogastric Cancer,0.482315112540193,multiple,3
+Esophagogastric Cancer,0.1607717041800643,homdel,1
+Esophagogastric Cancer,7.234726688102894,amp,45
+Esophagogastric Cancer,6.270096463022508,mutated,39
+Ovarian Epithelial Tumor,9.246575342465754,amp,54
+Ovarian Epithelial Tumor,0.1712328767123287,structuralVariant,1
+Ovarian Epithelial Tumor,1.0273972602739725,mutated,6
+Non-Seminomatous Germ Cell Tumor,9.30232558139535,amp,8
+Bladder Cancer,0.7299270072992701,multiple,3
+Bladder Cancer,0.24330900243309,homdel,1
+Bladder Cancer,2.9197080291970803,amp,12
+Bladder Cancer,2.9197080291970803,mutated,12
+Cholangiocarcinoma,5.555555555555555,mutated,2
+Cervical Cancer,0.3367003367003366,multiple,1
+Cervical Cancer,0.3367003367003366,amp,1
+Cervical Cancer,4.713804713804714,mutated,14
+Leukemia,5.0,mutated,10
+Mature B-Cell Neoplasms,4.166666666666666,mutated,2
+Sarcoma,0.392156862745098,multiple,1
+Sarcoma,1.1764705882352942,homdel,3
+Sarcoma,1.568627450980392,amp,4
+Sarcoma,0.392156862745098,mutated,1
+Melanoma,0.2252252252252252,multiple,1
+Melanoma,0.9009009009009008,amp,4
+Melanoma,2.027027027027027,mutated,9
+Glioma,2.140077821011673,amp,11
+Glioma,0.3891050583657587,mutated,2
+Pleural Mesothelioma,1.1494252873563218,multiple,1
+Pleural Mesothelioma,1.1494252873563218,amp,1
+Hepatobiliary Cancer,0.8064516129032258,amp,3
+Hepatobiliary Cancer,1.3440860215053765,mutated,5
+Breast Cancer,0.1845018450184501,homdel,2
+Breast Cancer,1.3837638376383763,amp,15
+Breast Cancer,0.5535055350553505,mutated,6
+Glioblastoma,0.1689189189189189,multiple,1
+Glioblastoma,1.5202702702702704,amp,9
+Glioblastoma,0.1689189189189189,mutated,1
+Head and Neck Cancer,0.1912045889101338,homdel,1
+Head and Neck Cancer,1.147227533460803,amp,6
+Head and Neck Cancer,0.1912045889101338,mutated,1
+Renal Non-Clear Cell Carcinoma,1.4367816091954022,mutated,5
+Prostate Cancer,0.2024291497975708,homdel,1
+Prostate Cancer,0.6072874493927125,amp,3
+Prostate Cancer,0.4048582995951417,mutated,2
+Adrenocortical Carcinoma,1.098901098901099,amp,1
+Thymic Epithelial Tumor,0.8130081300813009,mutated,1
+Thyroid Cancer,0.8,mutated,4
+Renal Clear Cell Carcinoma,0.3913894324853229,mutated,2

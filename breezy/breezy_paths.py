@@ -44,3 +44,26 @@ def notebooks_dir() -> Path:
 def tables_dir() -> Path:
     """Tables directory."""
     return root() / "tables"
+
+
+@mkdir
+def figures_dir() -> Path:
+    """Figures directory."""
+    return root() / "figures"
+
+
+@mkdir
+def figure_dir(num: int, ver: int) -> Path:
+    """Directory for a figure."""
+    return figures_dir() / f"figure_{num:03d}-v{ver:03d}"
+
+
+def figure_img_file(num: int, ver: int, name: str) -> Path:
+    """Path for a figure image file."""
+    return figure_dir(num, ver) / f"fig_{num:03d}-v{ver:03d}_{name}.png"
+
+
+@mkdir
+def dissertation_figure_stylesheet() -> Path:
+    """Path to the stylesheet for figures."""
+    return figures_dir() / "dissertation.mplstyle"

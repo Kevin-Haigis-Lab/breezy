@@ -26,7 +26,7 @@ def _read_raw_data() -> pd.DataFrame:
 def main() -> None:
     msg("Processing cBioPortal KRAS mutation frequency.")
     output_fp = data_dir() / "cbioportal-kras-mutation-frequency.csv"
-    _read_raw_data().clean_names().to_csv(output_fp)
+    _read_raw_data().clean_names().to_csv(output_fp, index=False)
     msg(f"Saving to '{output_fp}'.")
 
 

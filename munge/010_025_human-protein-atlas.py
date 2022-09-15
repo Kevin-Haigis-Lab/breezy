@@ -69,7 +69,7 @@ def main() -> None:
     expr_data = process_expression_data(hpa_data[["Gene"] + cols[split_idx:]])
     meta_data = process_metadata(hpa_data[cols[:split_idx]])
     msg(f"Saving expression data to '{EXPR_DATA_OUTPUT}'.")
-    expr_data.to_csv(EXPR_DATA_OUTPUT)
+    expr_data.to_csv(EXPR_DATA_OUTPUT, index=False)
     msg(f"Saving meta data data to '{METADATA_OUTPUT}'.")
     with open(METADATA_OUTPUT, "w") as fp:
         json.dump(meta_data, fp)
